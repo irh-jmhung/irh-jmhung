@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jimmy Hung
+- 👋 Hi, I’m Jimmy
 - 👀 I’m interested in writing software
 - 🌱 I’m currently learning how to write better code
 - 💞️ I’m looking to collaborate on the next Mars rocketship launch
